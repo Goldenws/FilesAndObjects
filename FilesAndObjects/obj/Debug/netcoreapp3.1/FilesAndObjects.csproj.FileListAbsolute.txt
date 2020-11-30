@@ -1,0 +1,12 @@
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\bin\Debug\netcoreapp3.1\FilesAndObjects.exe
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\bin\Debug\netcoreapp3.1\FilesAndObjects.deps.json
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\bin\Debug\netcoreapp3.1\FilesAndObjects.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\bin\Debug\netcoreapp3.1\FilesAndObjects.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\bin\Debug\netcoreapp3.1\FilesAndObjects.dll
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\bin\Debug\netcoreapp3.1\FilesAndObjects.pdb
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\obj\Debug\netcoreapp3.1\FilesAndObjects.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\obj\Debug\netcoreapp3.1\FilesAndObjects.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\obj\Debug\netcoreapp3.1\FilesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\obj\Debug\netcoreapp3.1\FilesAndObjects.dll
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\obj\Debug\netcoreapp3.1\FilesAndObjects.pdb
+C:\Users\Roland Strod\source\repos\FilesAndObjects\FilesAndObjects\obj\Debug\netcoreapp3.1\FilesAndObjects.genruntimeconfig.cache

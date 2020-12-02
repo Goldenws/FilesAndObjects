@@ -45,6 +45,18 @@ namespace FilesAndObjects
                 
             }
 
+            Console.WriteLine("What is your favourite movie? enter the title: ");
+            string favMovieTitle = Console.ReadLine();
+            Console.WriteLine("Enter your favorite movie rating:");
+            string favMovieYear = Console.ReadLine();
+            Console.WriteLine("Enter the release year: ");
+            string favMovieRating = Console.ReadLine();
+
+            Movie favMovie = new Movie(favMovieTitle, favMovieRating, favMovieYear);
+            string favMovieLine = $"{favMovie.title};{favMovie.rating};{favMovie.year}";
+
+            movieList.Add(favMovieLine);
+            File.WriteAllLines(Path.Combine(filePath), movieList);
         }
     }
 }

@@ -17,6 +17,7 @@ namespace ReadTotalFromShoppingList
             {
                 name = _name;
                 price = _price;
+                Console.WriteLine($"Item: {name} created. ");
             }
 
 
@@ -38,8 +39,24 @@ namespace ReadTotalFromShoppingList
 
             foreach(string line in linesFromFile)
             {
-                Console.WriteLine(line);
+                string[] temparray = line.Split(new char[] { '/' }, StringSplitOptions.RemoveEmptyEntries);
+                Item newItem = new Item(temparray[0], Int32.Parse(temparray[1]));
+                shoppingItems.Add(newItem);
+
+                
+
             }
+
+            Console.WriteLine("your shop cart: ");
+            int total = 0;
+
+            foreach(Item item in shoppingItems)
+            {
+                Console.WriteLine($"Item: {item.Name}; Price: {item.Price}");
+                total += item.Price;
+            }
+
+            Console.WriteLine($"Your shopping cart total: {total} ");
         }
     }
 }
